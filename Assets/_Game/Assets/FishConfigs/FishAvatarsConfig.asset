@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5278f6a9c6c65246940d5f91419e542, type: 3}
+  m_Name: FishAvatarsConfig
+  m_EditorClassIdentifier: 
+  fishAvatarData:
+  - eFishTypeVisual: 0
+    avatars:
+    - {fileID: 21300000, guid: 9c402a3866fd94bdbb580dd8d66cdda5, type: 3}
+    - {fileID: 21300000, guid: 9c402a3866fd94bdbb580dd8d66cdda5, type: 3}
+    - {fileID: 21300000, guid: 9c402a3866fd94bdbb580dd8d66cdda5, type: 3}
+    - {fileID: 21300000, guid: 9c402a3866fd94bdbb580dd8d66cdda5, type: 3}
+  - eFishTypeVisual: 1
+    avatars:
+    - {fileID: 21300000, guid: 89b5f85ee9dab0644a2dad6228ac6e1d, type: 3}
+    - {fileID: 21300000, guid: a03989dfe149db84e8020b92f9704b09, type: 3}
+    - {fileID: 21300000, guid: 0c46e37e33d1b1e4fb9afcba10a958c6, type: 3}
+    - {fileID: 21300000, guid: a23058363fdb3814cb2abd5c46c619d9, type: 3}
+  - eFishTypeVisual: 2
+    avatars:
+    - {fileID: 21300000, guid: 27a24c9d5fe4287418186038db7baf9f, type: 3}
+    - {fileID: 21300000, guid: bafb0777b8353e347b0a588f31b94ddf, type: 3}
+    - {fileID: 21300000, guid: 51c25e6226678204b9896998a2830977, type: 3}
+    - {fileID: 21300000, guid: 74986975f58e34145a7c408de986181d, type: 3}
+  - eFishTypeVisual: 3
+    avatars:
+    - {fileID: 21300000, guid: 94d77d584feb4bc4cbd237fdf5eaedb1, type: 3}
+    - {fileID: 21300000, guid: c37537f40b32b164db0a683dc45a6ba2, type: 3}
+    - {fileID: 21300000, guid: 600a9689ebd2be1488aef9d958e58b08, type: 3}
+    - {fileID: 21300000, guid: 9d281840b1e85a949b2526206bb25e63, type: 3}
+  - eFishTypeVisual: 4
+    avatars:
+    - {fileID: 21300000, guid: 30c0c9cf21bb67f49b03ff7b75f34907, type: 3}
+    - {fileID: 21300000, guid: 5190e3b8ada2a9e4cafa8eee553b2c1c, type: 3}
+    - {fileID: 21300000, guid: c2e124e054b37df47a0068a9be4ef154, type: 3}
+    - {fileID: 21300000, guid: 86c6448c7d7077f4592742775846c662, type: 3}
+  - eFishTypeVisual: 5
+    avatars:
+    - {fileID: 21300000, guid: 7d7c90e72851cab4fa47e147b4ad9224, type: 3}
+    - {fileID: 21300000, guid: f6b6ea306f536d743ba38443dd19a79f, type: 3}
+    - {fileID: 21300000, guid: 336bf9bcc5cf0654f99763b65837d99d, type: 3}
+    - {fileID: 21300000, guid: f79dccaa426f6f140bb9f86ec4e9640c, type: 3}

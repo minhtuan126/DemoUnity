@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c896fe1d7b338458b1bbecc6884dce, type: 3}
+  m_Name: AllEggData
+  m_EditorClassIdentifier: 
+  eggConfigs:
+  - rarity: 0
+    eggPrefab: {fileID: -4491961053494550545, guid: 6643a41d2fed60e4187018497383b94b, type: 3}
+  - rarity: 1
+    eggPrefab: {fileID: -5909325793735465012, guid: e1b906f6c54e0b443b12f7b8fc9e1c43, type: 3}
+  - rarity: 2
+    eggPrefab: {fileID: 1903041810981340209, guid: dc0200a4b18f1514786622bcab45f9f1, type: 3}
+  - rarity: 3
+    eggPrefab: {fileID: -8836221167882743747, guid: 5ccda3816a0e3de49ad73a5b6eec7de1, type: 3}
+  - rarity: 4
+    eggPrefab: {fileID: 7738531902558652076, guid: ed7e8663244e399429ec3306e34e6e2c, type: 3}

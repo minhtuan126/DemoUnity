@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a2ebd28fed4c8a4994fd0e9c4f5f985, type: 3}
+  m_Name: AvatarDataScriptableObject
+  m_EditorClassIdentifier: 
+  avatarDatas:
+  - id: 0
+    avatarSprite: {fileID: 21300000, guid: aea2e69007c2f8a4183c81eed21caac6, type: 3}
+  - id: 1
+    avatarSprite: {fileID: 21300000, guid: 20131573448f08a4396d14d9c7ae9b98, type: 3}
+  - id: 2
+    avatarSprite: {fileID: 21300000, guid: 0ba00da460acaa24b98f52df38d76e6c, type: 3}
+  - id: 3
+    avatarSprite: {fileID: 21300000, guid: cfe0334980dbe45428189819d38a0dad, type: 3}
+  - id: 4
+    avatarSprite: {fileID: 21300000, guid: 819a62d5b428c7d45bb0ee60659bf5bb, type: 3}
+  - id: 5
+    avatarSprite: {fileID: 21300000, guid: 5eab2a8ae5c4db84e88764d8e1c7df8a, type: 3}
+  - id: 6
+    avatarSprite: {fileID: 21300000, guid: 08a9c6b26dceb4c46a3ff2946edcf460, type: 3}
+  - id: 7
+    avatarSprite: {fileID: 21300000, guid: 6a4f2f1dfb7deb34d9569257b69c746b, type: 3}
+  - id: 8
+    avatarSprite: {fileID: 21300000, guid: 8f516c9b606a4a2419f44e9ade2eef57, type: 3}
+  - id: 9
+    avatarSprite: {fileID: 21300000, guid: 8504bc3464271fb47a6bc49c768e1d88, type: 3}
+  - id: 9
+    avatarSprite: {fileID: 21300000, guid: c5163177a1daf064a8a2de43e26e50cb, type: 3}
+  - id: 9
+    avatarSprite: {fileID: 21300000, guid: 0d46993367117cf49a398ccdebb88f00, type: 3}

@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FishSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 564466e82ea837f439cd98cdc996b8a0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f6b6ea306f536d743ba38443dd19a79f, type: 3}
+  - {fileID: 21300000, guid: 9d281840b1e85a949b2526206bb25e63, type: 3}
+  - {fileID: 21300000, guid: aea2e69007c2f8a4183c81eed21caac6, type: 3}
+  - {fileID: 21300000, guid: c2e124e054b37df47a0068a9be4ef154, type: 3}
+  - {fileID: 21300000, guid: 51c25e6226678204b9896998a2830977, type: 3}
+  - {fileID: 21300000, guid: 08a9c6b26dceb4c46a3ff2946edcf460, type: 3}
+  - {fileID: 21300000, guid: 0d46993367117cf49a398ccdebb88f00, type: 3}
+  - {fileID: 21300000, guid: 20131573448f08a4396d14d9c7ae9b98, type: 3}
+  - {fileID: 21300000, guid: 8504bc3464271fb47a6bc49c768e1d88, type: 3}
+  - {fileID: 21300000, guid: 0ba00da460acaa24b98f52df38d76e6c, type: 3}
+  - {fileID: 21300000, guid: c37537f40b32b164db0a683dc45a6ba2, type: 3}
+  - {fileID: 21300000, guid: 74986975f58e34145a7c408de986181d, type: 3}
+  - {fileID: 21300000, guid: 819a62d5b428c7d45bb0ee60659bf5bb, type: 3}
+  - {fileID: 21300000, guid: a23058363fdb3814cb2abd5c46c619d9, type: 3}
+  - {fileID: 21300000, guid: c5163177a1daf064a8a2de43e26e50cb, type: 3}
+  - {fileID: 21300000, guid: bafb0777b8353e347b0a588f31b94ddf, type: 3}
+  - {fileID: 21300000, guid: 7d7c90e72851cab4fa47e147b4ad9224, type: 3}
+  - {fileID: 21300000, guid: 9c402a3866fd94bdbb580dd8d66cdda5, type: 3}
+  - {fileID: 21300000, guid: 94d77d584feb4bc4cbd237fdf5eaedb1, type: 3}
+  - {fileID: 21300000, guid: 5190e3b8ada2a9e4cafa8eee553b2c1c, type: 3}
+  - {fileID: 21300000, guid: cfe0334980dbe45428189819d38a0dad, type: 3}
+  - {fileID: 21300000, guid: 600a9689ebd2be1488aef9d958e58b08, type: 3}
+  - {fileID: 21300000, guid: 5eab2a8ae5c4db84e88764d8e1c7df8a, type: 3}
+  - {fileID: 21300000, guid: f79dccaa426f6f140bb9f86ec4e9640c, type: 3}
+  - {fileID: 21300000, guid: 8f516c9b606a4a2419f44e9ade2eef57, type: 3}
+  - {fileID: 21300000, guid: 86c6448c7d7077f4592742775846c662, type: 3}
+  - {fileID: 21300000, guid: 336bf9bcc5cf0654f99763b65837d99d, type: 3}
+  - {fileID: 21300000, guid: 6a4f2f1dfb7deb34d9569257b69c746b, type: 3}
+  - {fileID: 21300000, guid: 27a24c9d5fe4287418186038db7baf9f, type: 3}
+  - {fileID: 21300000, guid: 89b5f85ee9dab0644a2dad6228ac6e1d, type: 3}
+  - {fileID: 21300000, guid: 0c46e37e33d1b1e4fb9afcba10a958c6, type: 3}
+  - {fileID: 21300000, guid: 30c0c9cf21bb67f49b03ff7b75f34907, type: 3}
+  - {fileID: 21300000, guid: a03989dfe149db84e8020b92f9704b09, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tiger_Common
+  - Dog_Great
+  - CatmermaidA_Defult
+  - Panda_Epic
+  - Rabbit_Great
+  - CatmermaidG
+  - CatmermaidL
+  - CatmermaidB
+  - CatmermaidJ
+  - CatmermaidC
+  - Dog_Rare
+  - Rabbit_Rare
+  - CatmermaidE
+  - Cat_Epic
+  - CatmermaidK
+  - Rabbit_Epic
+  - Tiger_Rare
+  - FishF0Free_Idle
+  - Dog_Common
+  - Panda_Great
+  - CatmermaidD
+  - Dog_Epic
+  - CatmermaidF
+  - Tiger_Epic
+  - CatmermaidI
+  - Panda_Rare
+  - Tiger_Great
+  - CatmermaidH
+  - Rabbit_Common
+  - Cat_Common
+  - Cat_Rare
+  - Panda_Common
+  - Cat_Great
+  m_RenderDataMap: {}
+  m_Tag: FishSprites
+  m_IsVariant: 0

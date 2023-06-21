@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3060733280644545083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3060733280644545084}
+  - component: {fileID: 3060733280644545085}
+  m_Layer: 0
+  m_Name: FishAssetInit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3060733280644545084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3060733280644545083}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3060733280644545085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3060733280644545083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6536839afa99e134f80efbb2f0d27453, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fishAvatarsConfig: {fileID: 11400000, guid: 3bcd3eda73b517840adaaa632714f667, type: 2}
+  eggDataConfigs: {fileID: 11400000, guid: 4c6df541dea915043b0428e598364b88, type: 2}
+  listTextureDog:
+  - {fileID: 2800000, guid: 693d7266645e8644dac66ff55f9b9cbb, type: 3}
+  - {fileID: 2800000, guid: a620020eef3f870478c6d0b1dc0ac3db, type: 3}
+  - {fileID: 2800000, guid: 52ccf26db1bc71b40a963967192fc068, type: 3}
+  - {fileID: 2800000, guid: dd705db58d884274ab8925882f0abdca, type: 3}
+  listTextureRabbit:
+  - {fileID: 2800000, guid: 7352698d60bae2642beebed2d751efa8, type: 3}
+  - {fileID: 2800000, guid: 0d5e1a08cc50bca4098ffbad49d84234, type: 3}
+  - {fileID: 2800000, guid: 2fbaf9cbcc3648e4b82d699bea4b4a6b, type: 3}
+  - {fileID: 2800000, guid: 4251282b84f3b8b4eb6e408f9d62a6f9, type: 3}
+  listTextureTiger:
+  - {fileID: 2800000, guid: 86fd95d80c8aaf54486c103210bfad08, type: 3}
+  - {fileID: 2800000, guid: b11c142c857eebb4e81ca130d434aa6e, type: 3}
+  - {fileID: 2800000, guid: b562ddeabca8a25469aebf7c9fc20004, type: 3}
+  - {fileID: 2800000, guid: e2230601bacdc2e44ace5dae061efeca, type: 3}
+  listTextureCat:
+  - {fileID: 2800000, guid: d605d663f947ece4bb47088d75cd80ea, type: 3}
+  - {fileID: 2800000, guid: f841c987982f1c947bbf1c1fc510598e, type: 3}
+  - {fileID: 2800000, guid: 3217e13086a75224ea66f3f6b445f50b, type: 3}
+  - {fileID: 2800000, guid: 7f6ab7bea50848946b469d9edb8cdb7c, type: 3}
+  listTexturePanda:
+  - {fileID: 2800000, guid: 011f06a90f432f340a5c324bc9d73e1d, type: 3}
+  - {fileID: 2800000, guid: c9197b5f2ff1b2a45a65ceaa7b0c68a3, type: 3}
+  - {fileID: 2800000, guid: 008021398c89f0642a1e708d46b25c9b, type: 3}
+  - {fileID: 2800000, guid: 55e2783f71f8cfc4a992c94b76db759a, type: 3}
+  textureFalloffControl: {fileID: 2800000, guid: a1d5b2277eb3f6245900378e6fa97575, type: 3}
+  textureRimLightControl: {fileID: 2800000, guid: a18067604964b5a4d8fd5552ed0d789e, type: 3}
+  _fishPrefabData:
+  - eFshTypeVisual: 0
+    fishPefab: {fileID: 635861115, guid: 86104e113f96b674d9fec6ea3615ea3f, type: 3}
+  - eFshTypeVisual: 1
+    fishPefab: {fileID: 6394854566620352760, guid: b669e26af1372b64e8c2a42a262676bd, type: 3}
+  - eFshTypeVisual: 2
+    fishPefab: {fileID: 3189183929368291329, guid: a9fe40cb3f2ef9044a5dd5da1f316e50, type: 3}
+  - eFshTypeVisual: 3
+    fishPefab: {fileID: 2347578736670591102, guid: 28c694d625ff95443b3285d58d6a32dc, type: 3}
+  - eFshTypeVisual: 4
+    fishPefab: {fileID: 820451974258456155, guid: 2c99bf7072ff8dc4992b0d05e4dd677c, type: 3}
+  - eFshTypeVisual: 5
+    fishPefab: {fileID: 2909583519953961262, guid: b4f2066e521266c48a0d2e1295385e04, type: 3}
+  eggSprites:
+  - {fileID: 21300000, guid: 6829056a55db2664a8107f1b075e04d1, type: 3}
+  - {fileID: 21300000, guid: bda959edc01d315418c38b846bfa830e, type: 3}
+  - {fileID: 21300000, guid: 94560d9d15f91e9409cd8f09445c66b3, type: 3}
+  - {fileID: 21300000, guid: 66adfad0e86339a4b81d11c335af2916, type: 3}
